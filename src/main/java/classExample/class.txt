@@ -5,3 +5,26 @@ It defines the properties (variables) and behaviors (methods) that the objects c
 Think of a class like a recipe—it tells you how to make something, but it’s not the actual thing itself.
 The actual object created from the class is like the cake that’s made using the recipe.
 
+A class in Java is a set of objects which shares common characteristics/ behavior and common properties/ attributes. It is a user-defined blueprint or prototype from which objects are created. For example, Student is a class while a particular student named Ravi is an object.
+
+Properties of Java Classes
+Class is not a real-world entity. It is just a template or blueprint or prototype from which objects are created.
+Class does not occupy memory.
+Class is a group of variables of different data types and a group of methods.
+A Class in Java can contain:
+Data member
+Method
+Constructor
+Nested Class
+Interface
+
+
+Components of Java Classes
+In general, class declarations can include these components, in order:
+
+ Modifiers  : A class can be public or has default access (Refer  this  for details).
+ Class keyword:  class keyword is used to create a class.
+ Class name:  The name should begin with an initial letter (capitalized by convention).
+ Superclass(if any):  The name of the class’s parent (superclass), if any, preceded by the keyword extends. A class can only extend (subclass) one parent.
+ Interfaces(if any):  A comma-separated list of interfaces implemented by the class, if any, preceded by the keyword implements. A class can implement more than one interface.
+ Body:  The class body is surrounded by braces, { }.

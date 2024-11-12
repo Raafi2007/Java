@@ -1,0 +1,5 @@
+An object in Java is a basic unit of Object-Oriented Programming and represents real-life entities. Objects are the instances of a class that are created to use the attributes and methods of a class.  A typical Java program creates many objects, which as you know, interact by invoking methods. An object consists of :
+
+State : It is represented by attributes of an object. It also reflects the properties of an object.
+Behavior : It is represented by the methods of an object. It also reflects the response of an object with other objects.
+Identity : It gives a unique name to an object and enables one object to interact with other objects.
