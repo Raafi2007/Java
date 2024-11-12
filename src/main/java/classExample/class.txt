@@ -1,0 +1,7 @@
+What is a Class in Java?
+A class in Java is like a blueprint or template for creating objects.
+It defines the properties (variables) and behaviors (methods) that the objects created from it will have.
+
+Think of a class like a recipe—it tells you how to make something, but it’s not the actual thing itself.
+The actual object created from the class is like the cake that’s made using the recipe.
+
